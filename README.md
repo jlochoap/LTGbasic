@@ -2,6 +2,10 @@
 
 Basic image pages downloader for Libros de Texto Gratuitos (Mexico's free basic education school books)
 
+## 2021 Important Notice ##
+
+As expected from the Mexico government, the interests of the money-grubbing book editorials is more important than the education of our children, so the directories structure has been changed, a warning notice added to the site mentioning that the download is illegal and many middle education books reading has been redirected to the books' editorials' own reader apps. Hence, this app is now obsolete. Thank our government!
+
 ## Wiki
 
 ### What are Libros de Texto Gratuitos?
