@@ -13,7 +13,7 @@ These books are made (and/or distributed) by the [Comisión Nacional de Libros d
 Simply, it is a serial image downloader. Once you determine which school year, and which code of book you require, LTGbasic downloads the image files for the complete book (or some pages, as required). You can visualize the pages in an image viewer, or assemble a PDF file if you have Acrobat or other PDF binder.
 
 ### Why LTGbasic
-Why not?
+Currently, the site for the free books only allows the online viewing of the books. A site for certain downloads was available, but is currently offline. Many students don't have the chance of accessing these books due to a lack of functioning internet connection, so a local copy of the book is necessary.
 
 ### Features
 - Autofill for current and historical servers.
